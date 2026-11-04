@@ -2,8 +2,6 @@
 
 A projekt célja a gépi tanulásos szektoronkénti részvénykiválasztás és a klasszikus portfólió-optimalizációs technikák alkalmazása az S&P 500 univerzumon, szigorú **Időponthű elemzési elv** és **Walk-Forward** kísérleti elrendezés mellett.
 
-Ez a repository a TDK dolgozatom kód dokumentációja, célja a kutatásom során kidolgozott architektúrába tartozó részvénykiválasztási és portfólió-optimalizálási eljárások rendszerezett bemutatása.
-A teljes projekt forráskódjai kérésre elérhetőek a szecsi.elizabet@gmail.com e-mail címen.
 ---
 
 ## Projekt Áttekintése & Módszertan
@@ -47,3 +45,8 @@ A tesztidőszak alatt (100 000 Ft-os kezdőtőkéből indítva) az alábbi portf
 ├── app.py                    # Fő Streamlit alkalmazás belépési pontja
 ├── diagnostic_metrics.py     # Portfólió diagnosztika és bias-detektáló szkript
 └── plot_feature_importance.py # XGBoost indikátor-fontosságot generáló szkript
+
+---
+*Dokumentációs megjegyzés:
+Ez a repository a TDK dolgozatom kód dokumentációja, célja a kutatásom során kidolgozott architektúrába tartozó részvénykiválasztási és portfólió-optimalizálási eljárások rendszerezett bemutatása.
+A teljes projekt forráskódjai kérésre elérhetőek a szecsi.elizabet@gmail.com e-mail címen.*
