@@ -19,12 +19,10 @@ A kutatás a **2025-09 – 2026-08** közötti 12 hónapos tesztidőszakot vizsg
 
 A tesztidőszak alatt (100 000 Ft-os kezdőtőkéből indítva) az alábbi portfólió-stratégiák teljesítménye került összehasonlításra:
 
-| Stratégia | Zárótőke (HUF) | Kumulált Hozam (%) |
-| :--- | :--- | :---: | :---: |
-| **XGBoost + Equal Weight**  | **132 048 Ft** | **+32.05%** |
-| **Dynamic XGBoost + Markowitz**  | **121 236 Ft** | **+21.24%** |
-| **CAPM + Markowitz** | **101 085 Ft** | **+1.08%** |
-| **Oracle (Perfect Foresight)**  | *1 350 991 Ft* | *+1250.99%* |
+* **XGBoost + Equal Weight:** 132 048 Ft zárótőke (+32,05% kumulált hozam)
+* **Dynamic XGBoost + Markowitz:** 121 236 Ft zárótőke (+21,24% kumulált hozam)
+* **CAPM + Markowitz:** 101 085 Ft zárótőke (+1,08% kumulált hozam)
+* **Oracle:** 1 350 991 Ft zárótőke (+1250,99% kumulált hozam)
 
 > **Megjegyzés az Oracle modellről:** Az *Oracle* (`build_original_oracle.py`) egy idealizált benchmark. Nem kereskedhető stratégia, hanem a már megvalósult jövőbeli hozamok alapján állítja össze az elérhető legmagasabb felső korlátot. Készitését pusztán a kiváncsiság vezérelte, hogy hogyan is alakulna a hozamgörbe, ha a modellek 100%-os előrejelzésekre lennének képesek. Éppen ezért a tdk szempontjából nem hordoz plusz értéket.
 
