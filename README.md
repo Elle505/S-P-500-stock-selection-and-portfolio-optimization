@@ -48,5 +48,6 @@ A tesztidőszak alatt (100 000 Ft-os kezdőtőkéből indítva) az alábbi portf
 
 ---
 *Dokumentációs megjegyzés:
-Ez a repository a TDK dolgozatom kód dokumentációja, célja a kutatásom során kidolgozott architektúrába tartozó részvénykiválasztási és portfólió-optimalizálási eljárások rendszerezett bemutatása.
-A teljes projekt forráskódjai kérésre elérhetőek a szecsi.elizabet@gmail.com e-mail címen.*
+Ez a repository a TDK dolgozatom kóddokumentációja,
+célja a kutatásom során kidolgozott architektúrába tartozó részvénykiválasztási és portfólió-optimalizálási eljárások rendszerezett bemutatása.
+A teljes projekt forráskódjai kérésre elérhetőek a szecsi.elizabet@gmail.com e-mail címen.
